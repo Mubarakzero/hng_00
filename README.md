@@ -22,17 +22,6 @@ Getting Started
 
 Follow these steps to clone, build, and run the project on your local machine.
 
-Prerequisites
-
-Ensure you have the following installed:
-
-Flutter SDK, the Dart SDK comes with flutter 
-
-Android Studio or VS Code (With Flutter extension)
-
-A connected physical device or an emulator
-
-
 Installation
 
 Clone the repository
